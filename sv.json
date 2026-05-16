@@ -1,0 +1,7 @@
+{
+  "name": "SILEM Foundation — Preview",
+  "description": "Testnet pool on Cardano preview. Supporting children & communities in Haiti. Operated by VOLCY SPO — ITN 2019 veteran.",
+  "ticker": "SILEM",
+  "homepage": "https://silemfoundation.org",
+  "extended": "https://raw.githubusercontent.com/gvolcy/SILEM/main/extended.json"
+}
