@@ -1,0 +1,54 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://developers.apexfusion.org/storage/icons/XgtDuGJiUF3pGomhli5OA07Nwy5Cq9tbFbfNMVjI.png",
+    "url_png_logo": "https://developers.apexfusion.org/storage/logos/TzTgsmeQEQgPw0L9cbbCXEDf6EgcCZKW8trzi6We.png",
+    "location": "Haiti / Canada",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "discord_handle": "",
+      "github_handle": "https://github.com/gvolcy"
+    },
+    "company": {
+      "name": "Silem Foundation",
+      "addr": "",
+      "city": "",
+      "country": "Haiti",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Silem Foundation — dedicated to supporting children and communities in Haiti. This Cardano stake pool is operated by Gregory (VOLCY SPO), an ITN 2019 veteran, with enterprise-grade infrastructure. Every epoch contributes to the Foundation's humanitarian mission.",
+      "server": "Enterprise-grade infrastructure shared with VOLCY SPO. Redundant multi-relay setup with 24/7 monitoring, automated failover, and professional DevOps management.",
+      "company": "Silem Foundation is a charitable organization focused on empowering Haitian communities through education, technology, and sustainable development. Blockchain infrastructure operated by VOLCY SPO."
+    }
+  },
+  "my-pool-ids": {
+    "0": "20b2a92b6a3eb8acb2700dedd1478431df471868280132a573856362"
+  },
+  "itn": {
+    "owner": "ed25519_pk14mwnrd3fvuph5qrhnfkxv2xjdjfa0sxlnl4ps2hueh2aggsxwz8qh37hen",
+    "witness": "ed25519_sig1ntj9cnxuwtdp840vy5frm8qzm3v2j2el8j83wn8nfntaq9qm4s5mjmg0azqu0mtn02asjrnuxww95vpapygu0n3ejupz8j0hgncpzqcv96438"
+  },
+  "serial": 2026051601,
+  "pool": {
+    "id": "20b2a92b6a3eb8acb2700dedd1478431df471868280132a573856362",
+    "country": "HTI",
+    "status": "act",
+    "contact": {
+      "primary": "github",
+      "twitter": "",
+      "telegram": "",
+      "discord": "",
+      "github": "gvolcy"
+    },
+    "media_assets": {
+      "icon_png_64x64": "https://developers.apexfusion.org/storage/icons/XgtDuGJiUF3pGomhli5OA07Nwy5Cq9tbFbfNMVjI.png",
+      "logo_png": "https://developers.apexfusion.org/storage/logos/TzTgsmeQEQgPw0L9cbbCXEDf6EgcCZKW8trzi6We.png"
+    },
+    "itn": {
+      "owner": "ed25519_pk14mwnrd3fvuph5qrhnfkxv2xjdjfa0sxlnl4ps2hueh2aggsxwz8qh37hen",
+      "witness": "ed25519_sig1ntj9cnxuwtdp840vy5frm8qzm3v2j2el8j83wn8nfntaq9qm4s5mjmg0azqu0mtn02asjrnuxww95vpapygu0n3ejupz8j0hgncpzqcv96438"
+    }
+  }
+}

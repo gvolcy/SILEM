@@ -1,0 +1,7 @@
+{
+  "name": "SILEM Foundation",
+  "description": "Cardano stake pool supporting children & communities in Haiti. Operated by VOLCY SPO — ITN 2019 veteran with enterprise-grade infrastructure.",
+  "ticker": "SILEM",
+  "homepage": "https://silemfoundation.org/",
+  "extended": "https://raw.githubusercontent.com/gvolcy/SILEM/main/extended.json"
+}
